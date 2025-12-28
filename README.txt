@@ -6,3 +6,4 @@ This line is modified in FEATURE-A branch
 Learning Git is fun.
 Practicing git diff
 Another wrong line
+This line will be reverted
